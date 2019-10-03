@@ -1,4 +1,11 @@
 'use strict';
 import context from "../../context/context.js";
 
-alert("Hello");
+function sayHelloMCT() {
+
+    alert("Hello");
+    alert("Peter");
+
+}
+
+sayHelloMCT();
